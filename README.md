@@ -1,1 +1,1 @@
-# Gamblink
+Gamelink is a single-page web application (SPA) designed to facilitate collaboration between game developers and playtesters by providing a structured platform for game testing, bug reporting, and feedback collection. Built entirely with HTML5, CSS3, and vanilla JavaScript, the project emphasizes client-side functionality# Gamblink
