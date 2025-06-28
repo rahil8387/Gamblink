@@ -1,56 +1,67 @@
-# 🎮 GamerLink: For the Gamers, By the Gamers
+<h1 align="center">🎮 GamerLink</h1>
+<p align="center"><em>For the Gamers, By the Gamers</em></p>
 
-GamerLink is a professional networking and recruitment platform specifically designed for the gaming industry. It bridges the gap between skilled individuals and gaming companies through automated resume analysis, intelligent profile matching, and a robust recruitment ecosystem.
+---
 
-## 📌 Abstract
+## 🧩 Overview
 
-Despite the gaming industry's rapid growth, the complexity of traditional recruitment systems hinders efficient talent acquisition. GamerLink aims to solve this by integrating modern web technologies with automated resume screening algorithms tailored for the gaming industry. Key features include:
+GamerLink is a niche professional networking and recruitment platform tailored exclusively for the gaming industry. It serves as a bridge between talented individuals and game studios by automating the hiring workflow, enabling skill-based profile matching, and simplifying the candidate journey.
 
-- Intelligent profile matching
-- Automated qualification verification
-- Secure authentication and data handling
-- Comprehensive applicant tracking
-- Role-specific evaluation and real-time feedback
+---
 
-This proof-of-concept demonstrates how streamlined automation can enhance quality hiring without compromising standards, opening up career paths in development, testing, design, and game reviews.
+## 🎯 Core Objectives
 
-## 🎯 Objectives
+- 🔍 Analyze resumes and verify qualifications using smart screening algorithms.
+- 🌐 Develop a scalable and secure web-based recruitment platform.
+- 🧠 Design role-specific assessments for streamlined candidate evaluation.
+- 🖥️ Implement intuitive interfaces for profile management and application tracking.
+- ⚙️ Create backend systems to handle large-scale evaluations efficiently.
+- 🔐 Introduce automated verification systems with minimal hiring friction.
+- 📊 Measure performance metrics and recruitment efficiency through analytics.
 
-1. Analyze resumes and verify candidate qualifications using sophisticated screening algorithms.
-2. Develop a scalable and secure web platform for seamless interaction between candidates and gaming companies.
-3. Design role-specific assessment frameworks for consistent candidate evaluation.
-4. Implement a user-friendly interface with advanced features like profile management and application tracking.
-5. Build a backend infrastructure capable of handling large-scale evaluations and data processing.
-6. Automate verification systems to reduce hiring friction while maintaining industry standards.
-7. Track key analytics such as success rates, platform performance, and recruitment metrics to support continuous improvement.
+---
 
-## 👨‍💻 Tech Stack
+## 🚀 Key Features
 
-- **Frontend**: React.js / Next.js
-- **Backend**: Node.js / Express.js
-- **Database**: MongoDB / PostgreSQL
-- **Authentication**: JWT / OAuth2
-- **Resume Parsing**: NLP (e.g., spaCy, PyResparser)
-- **Deployment**: Docker, AWS / Heroku
+- 💼 Intelligent Resume Parsing
+- 🔗 Automated Qualification Matching
+- 🔒 Secure Authentication & Authorization
+- 🧾 Smart Application Tracking System
+- 🎯 Role-Specific Skill Assessments
+- 🛠️ Real-Time Feedback & Scorecards
 
-## 👥 Team Members
+---
 
-- **Rahil Saini**
-- **Hardik Pradhan** (Project Lead)
-- **Devanshu**
-- **Hemant**
+## 🛠 Tech Stack
 
-## 📜 Supervised By
+- Frontend: React.js / Next.js  
+- Backend: Node.js / Express.js  
+- Database: MongoDB / PostgreSQL  
+- Authentication: JWT / OAuth2  
+- Resume Parsing: spaCy, PyResparser (NLP)  
+- Deployment: Docker, AWS / Heroku
 
-**Prof. Dr. Gaurav Ganguly**  
-Assistant Professor  
-Department of Computer Applications  
-University of Engineering & Management, Jaipur
+---
 
-## 🏁 Status
+## 🧑‍🤝‍🧑 Meet the Team
 
-🚧 Under development – MVP stage. Contributions welcome!
+| Name             | Email                            | LinkedIn |
+|------------------|----------------------------------|----------|
+| 🧑‍💻 Rahil Saini    | rahilsaini2003@gmail.com         | [Rahil Saini](https://www.linkedin.com/in/rahil-saini) |
+| 🧠 Hardik Pradhan | hardikpradhan41@gmail.com        | [Hardik Pradhan](https://www.linkedin.com/in/hardik-pradhan-60a514286) |
+| 🧪 Devanshu       | devanshugotherwal004@gmail.com   | [Devanshu Gotharwal](https://www.linkedin.com/in/devanshu-gotharwal-2a634528b) |
+| 🎨 Hemant Rathore | hemantrathore513@gmail.com       | [Hemant Rathore](https://www.linkedin.com/in/hemant-rathore-412510286) |
 
-## 📫 Contact
+---
 
-For queries or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/) or open an issue.
+## 🧪 Project Status
+
+🛠️ MVP (Minimum Viable Product) in development. Contributions, feedback, and suggestions are welcome!
+
+---
+
+## 📬 Contact
+
+Feel free to reach out to any of the team members through their LinkedIn profiles or email addresses listed above.
+
+---
